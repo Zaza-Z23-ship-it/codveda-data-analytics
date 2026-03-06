@@ -1,0 +1,8 @@
+CustomerID,Name,Age,City,JoinDate,Purchase
+1,Alice,25.0,Lagos,2024-01-15,5000
+2,Bob,,Abuja,2024/02/20,3000
+3,Carol,30.0,lagos,15-03-2024,4500
+4,David,22.0,Kano,2024-04-10,2000
+2,Bob,,Abuja,2024/02/20,3000
+5,Eve,28.0,Lagos,2024-05-05,6000
+6,Frank,35.0,,2024-06-18,1500
